@@ -1,0 +1,10 @@
+Common Lisp Functions
+
+To use the following functions, CLisp must be installed and running.
+
+1. Install GNU CLisp
+2. Change directory to location of CLisp program
+	(cd "C:\\Path\\to\\Folder")
+3. Load the function(s)
+	(load "fibonacci")
+4. Use the function.  Usage notes can be found in the .lsp file
